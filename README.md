@@ -36,7 +36,7 @@ Follow the instructions below to set up and run the project locally.
 1. Clone the repository:
    ```bash
    git clone https://github.com/DaveSimoes/karban-clone.git
-   cd karban-clone
+   cd kanban-task-management
 
    
 2. Install dependencies:
